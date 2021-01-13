@@ -5,9 +5,9 @@ class Ball{
          var options={
     
                 isStatic:false,
-                restitution:0.3,
-                friction:1,
-                density:0.8
+                restitution:1.2,
+                friction:0.5,
+                density:0.4
     
          }
     
