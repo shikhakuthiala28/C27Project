@@ -6,7 +6,7 @@ class Ball{
     
                 isStatic:false,
                 restitution:1.2,
-                friction:0.5,
+                friction:1,
                 density:0.4
     
          }
